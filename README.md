@@ -1,5 +1,5 @@
 # NEB-python
-A NEB code Based on Python, Numpy and Matplotlib.
+NEB code Based on Python, Numpy and Matplotlib.
 
 **Reference:**
 > - [Nudged elastic band method for finding minimum energy paths of transitions.](https://doi.org/10.1142/9789812839664_0016)
